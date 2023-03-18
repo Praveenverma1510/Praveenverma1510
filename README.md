@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" height="400" width="1800">
+
+
 <h1 align="center">Hi 👋, I'm Praveen Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
